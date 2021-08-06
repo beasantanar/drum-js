@@ -1,8 +1,8 @@
+<h1 align="center">Bateria via teclado - JS</h1>
+
 <div align="center" id="top"> 
   <img src="https://user-images.githubusercontent.com/72886481/128120388-f9a14009-5b34-47fc-bf75-07cc3f463476.png"/>
 </div>
-
-<h1 align="center">Bateria via teclado - JS</h1>
 
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
